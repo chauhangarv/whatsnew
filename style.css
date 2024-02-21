@@ -1,0 +1,382 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: border-box;
+}
+
+
+.logo{
+        display: flex;
+        top: 50px;
+        left: 50px;
+        position: relative; 
+}
+
+.img-1{
+    background-image: url(/WriteEase/logoooo-removebg-preview\ 2.png);
+    height: 52px;
+    width: 224px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: absolute; */
+}
+
+
+.img-2{
+    background-image: url(/WriteEase/Use\ Cases.png);
+    height: 15px;
+    width: 94px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 69px;
+    left: 20rem;
+    position: absolute;
+}
+
+.img-3{
+    background-image: url(/WriteEase/How\ it\ Works-1.png);
+    height: 15px;
+    width: 117px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 69px;
+    left: 29rem;
+    position: absolute;
+}
+
+.img-4{
+    background-image: url(/WriteEase/Pricing-1.png);
+    height: 20px;
+    width: 64px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 69px;
+    left: 40rem;
+    position: absolute;
+}
+
+.img-5{
+    background-image: url(/WriteEase/Contact.png);
+    height: 15px;
+    width: 69px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 69px;
+    left: 47rem;
+    position: absolute;
+}
+
+.img-6{
+    background-image: url(/WriteEase/Rectangle\ 1.png);
+    height: 45px;
+    width: 212px;
+    left: 59rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+.img-7{
+    background-image: url(/WriteEase/Get\ Started\ -\ it’s\ Free.png);
+    height: 14px;
+    width: 178px;
+    margin: 15px 13px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+
+.first-words{
+    background-image: url(/WriteEase/The\ Power\ of\ ChatGPT\ on\ WhatsApp!.png);
+    height: 122px;
+    width: 571px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    top: 10rem;
+    left: 53px;
+    position: absolute;
+}
+
+.second-words{
+    background-image: url(/WriteEase/Whether\ you’re\ a\ writer\,\ marketer\,\ or\ entrepreneur\,\ WriteEase\ can\ help\ you\ out\ on\ your\ daily\ tasks..png);
+    height: 50px;
+    width: 571px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    top: 19rem;
+    left: 53px;
+    position: absolute;
+}
+
+.first-wa{
+    background-image: url(/WriteEase/signup\ with\ google.png);
+    height: 50px;
+    width: 221px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    top: 24rem;
+    left: 53px;
+    position: absolute;
+}
+.wa-1{
+    background-image: url(/WriteEase/image\ 18.png);
+    height: 33px;
+    width: 34px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    margin: 8px 15px;
+}
+
+.third-words{
+    background-image: url(/WriteEase/Get\ your\ free\ account\ today.png);
+    height: 18px;
+    width: 256px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    top: 29rem;
+    left: 53px;
+    position: absolute;
+}
+
+.first-circle{
+  height: 6rem;
+  width: 30rem;
+  top: 33rem;
+  left: 50px;
+  justify-content: space-between;
+  display: flex;
+  position: absolute;
+}
+
+.circle-1{
+    background-image: url(/WriteEase/Ellipse\ 46.png);
+    height: 89px;
+    width: 90px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+
+.circle-2{
+    background-image: url(/WriteEase/Ellipse\ 47.png);
+    height: 89px;
+    width: 90px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+
+.circle-3{
+    background-image: url(/WriteEase/Ellipse\ 44.png);
+    height: 89px;
+    width: 90px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+
+.circle-4{
+    background-image: url(/WriteEase/Ellipse\ 45.png);
+    height: 89px;
+    width: 90px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+
+.circle-5{
+    background-image: url(/WriteEase/Rectangle\ 49.png);
+    height: 24px;
+    width: 57px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    top: 91px;
+    left: 22px;
+    position: absolute;
+}
+
+.circle-6{
+    background-image: url(/WriteEase/Rectangle\ 50.png);
+    height: 24px;
+    width: 63px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    top: 91px;
+    left: 9rem;
+    position: absolute;
+}
+
+.circle-7{
+    background-image: url(/WriteEase/Rectangle\ 47.png);
+    height: 24px;
+    width: 77px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    top: 91px;
+    left: 17rem;
+    position: absolute;
+}
+
+.circle-8{
+    background-image: url(/WriteEase/Rectangle\ 48.png);
+    height: 24px;
+    width: 83px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    top: 91px;
+    left: 24.6rem;
+    position: absolute;
+}
+
+.des-1{
+    background-image: url(/WriteEase/Writer.png);
+    height: 9px;
+    width: 34px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    margin: 7px 10px;
+}
+.des-2{
+    background-image: url(/WriteEase/Blogger.png);
+    height: 12px;
+    width: 42px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    margin: 7px 10px;
+}
+.des-3{
+    background-image: url(/WriteEase/Marketer.png);
+    height: 9px;
+    width: 49px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    margin: 7px 13px;
+}
+.des-4{
+    background-image: url(/WriteEase/Freelancer.png);
+    height: 9px;
+    width: 57px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    margin: 7px 13px;
+}
+
+.first-blur{
+    background-image: url(/WriteEase/Vector\ 36.png);
+    height: 618px;
+    width: 681px;
+    left: 35rem;
+    top: 10rem;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    margin: 7px 13px;
+    position: absolute;
+}
+.first-whatsapp{
+    background-image: url(/WriteEase/image\ 21.png);
+    height: 467px;
+    width: 285px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    margin: 0px 290px;
+}
+
+.second-part{
+    height: 53rem;
+    width: 100vw;
+    background-image: url(/WriteEase/Rectangle\ 10.png);
+    position: relative;
+    top: 39rem;
+}
+
+.img1-second{
+    background-image: url(/WriteEase/Use\ Cases-1.png);
+    height: 33px;
+    width: 230px;
+    top: 2rem;
+    left: 32rem;
+    position: absolute;
+    background-repeat:no-repeat ;
+}
+
+.img2-second{
+    background-image: url(/WriteEase/Write\ Better\ Content\ faster\,\ the\ future\ of\ AI\ writing\ Tools\ is\ here.png);
+    height: 25px;
+    width: 592px;
+    top: 5rem;
+    left: 23rem;
+    position: absolute;
+    background-repeat:no-repeat ;
+}
+
+.box{
+    display: flex;
+    position: relative;
+    margin-left: 5rem;
+}
+.box-1{
+    background-image: url(/WriteEase/Rectangle\ 5.png);
+    height: 352px;
+    width: 315px;
+    top: 10rem;
+    left: 3rem;
+    position: absolute;
+    background-repeat:no-repeat ;
+}
+.box-2{
+    background-image: url(/WriteEase/Rectangle\ 5.png);
+    height: 352px;
+    width: 315px;
+    top: 10rem;
+    left: 24rem;
+    position: absolute;
+    background-repeat:no-repeat ;
+}
+.box-3{
+    background-image: url(/WriteEase/Rectangle\ 5.png);
+    height: 352px;
+    width: 315px;
+    top: 10rem;
+    left: 45rem;
+    position: absolute;
+    background-repeat:no-repeat ;
+}
+.box-4{
+    background-image: url(/WriteEase/Rectangle\ 5.png);
+    height: 352px;
+    width: 315px;
+    top: 10rem;
+    left: 3rem;
+    position: absolute;
+    background-repeat:no-repeat ;
+}
+.box-5{
+    background-image: url(/WriteEase/Rectangle\ 5.png);
+    height: 352px;
+    width: 315px;
+    top: 33rem;
+    left: 3rem;
+    position: absolute;
+    background-repeat:no-repeat ;
+}
+.box-6{
+    background-image: url(/WriteEase/Rectangle\ 5.png);
+    height: 352px;
+    width: 315px;
+    top: 33rem;
+    left: 24rem;
+    position: absolute;
+    background-repeat:no-repeat ;
+}
+.box-7{
+    background-image: url(/WriteEase/Rectangle\ 5.png);
+    height: 352px;
+    width: 315px;
+    top: 33rem;
+    left: 45rem;
+    position: absolute;
+    background-repeat:no-repeat ;
+}
+.box-8{
+    background-image: url(/WriteEase/Rectangle\ 5.png);
+    height: 352px;
+    width: 315px;
+    top: 10rem;
+    left: 3rem;
+    position: absolute;
+    background-repeat:no-repeat ;
+}
